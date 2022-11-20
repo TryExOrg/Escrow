@@ -7,4 +7,4 @@ At the end of a pre-defined duration or at the close of trade, the CEX can call 
 This seeks to provide transparent on chain visibility to the User that his funds are used for the purpose defined
 The CEX can also at all times view the funds safely stored and continue to provide services commensurate with the funds held
 This method should drastically reduce the need for the User to store funds on CEX unless converting to FIAT
-CEX usage restricted to On & Off ramp only as there is no requirement of funds storage for trading purposes 
+CEX usage restricted to On & Off ramp only as there is no requirement of funds storage for trading purposes.
