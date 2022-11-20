@@ -6,7 +6,7 @@ Talk@tryex.org or
 The contents of this repository are available for testing by any and all parties
 Utilize the contents here at your own risk and due diigence
 
-TryexEscrow.sol is an evolving code that seeks to act as the blockchain intermediary between the user and the CEX
+Tryex is an evolving project that seeks to act as the blockchain intermediary between the user and the CEX
 The smart contract acts as a temporary holding area where the user deposits funds to be able to trade on the respective CEX
 At the end of a pre-defined duration or at the close of trade, the CEX can call the funds for reconciliation and closure of books
 This seeks to provide transparent on chain visibility to the User that his funds are used for the purpose defined
