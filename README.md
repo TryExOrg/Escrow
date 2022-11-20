@@ -39,6 +39,8 @@ https://github.com/TryExOrg/Escrow/blob/main/TryExStake.sol
 
 https://github.com/TryExOrg/Escrow/blob/main/TryExLock.sol
 
+https://github.com/TryExOrg/Escrow/blob/main/TryExVesting.sol
+
 https://github.com/TryExOrg/Escrow/blob/main/TryExEscrow.sol
 
 ![Escrow](https://user-images.githubusercontent.com/118675124/202914663-75581f47-ac91-48d9-b0db-fb779d066f0d.PNG)
