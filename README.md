@@ -1,3 +1,7 @@
+![TryexFinal-preview](https://user-images.githubusercontent.com/118675124/202914713-7cf9f9fa-9c5f-49c9-85c5-adde76ab9714.png)
+
+Welcome to the TryEx Project! 
+
 For questions please reach out to: 
 
 Talk@tryex.org or
@@ -19,6 +23,10 @@ Quick links:
 
 https://github.com/TryExOrg/Escrow/blob/main/TryEx.sol
 
+![TryexTokens](https://user-images.githubusercontent.com/118675124/202914678-525d2ad6-5f0c-44dd-8e4b-3d97b9b8365c.PNG)
+
 https://github.com/TryExOrg/Escrow/blob/main/TryExStake.sol
 
 https://github.com/TryExOrg/Escrow/blob/main/TryExEscrow.sol
+
+![Escrow](https://user-images.githubusercontent.com/118675124/202914663-75581f47-ac91-48d9-b0db-fb779d066f0d.PNG)
