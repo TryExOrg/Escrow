@@ -49,6 +49,6 @@ The 21,000,000 $TryEx tokenomics:
 
 ![TryexVesting](https://user-images.githubusercontent.com/118675124/202928947-972c2926-ec41-4eee-98ea-1da5e0e4fe25.PNG)
 
-6. https://github.com/TryExOrg/Escrow/blob/main/TryExEscrow.sol
+5. https://github.com/TryExOrg/Escrow/blob/main/TryExEscrow.sol
 
 ![Escrow](https://user-images.githubusercontent.com/118675124/202914663-75581f47-ac91-48d9-b0db-fb779d066f0d.PNG)
