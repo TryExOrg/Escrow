@@ -25,6 +25,16 @@ https://github.com/TryExOrg/Escrow/blob/main/TryEx.sol
 
 ![TryexTokens](https://user-images.githubusercontent.com/118675124/202914678-525d2ad6-5f0c-44dd-8e4b-3d97b9b8365c.PNG)
 
+The 21,000,000 $TryEx tokenomics:
+
+- 3,000,000 Staking pools yield 1% every 5 days
+- 3,000,000 reserved for CEX listings
+- 3,000,000 vested Team tokens 
+- 3,000,000 launched to LP
+- 3,000,000 reserved for MultiChain usage
+- 3,000,000 locked for 1 year
+- 3,000,000 reserved for OTC
+
 https://github.com/TryExOrg/Escrow/blob/main/TryExStake.sol
 
 https://github.com/TryExOrg/Escrow/blob/main/TryExEscrow.sol
