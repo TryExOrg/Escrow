@@ -21,7 +21,7 @@ CEX usage restricted to On & Off ramp only as there is no requirement of funds s
 
 Quick links: 
 
-https://github.com/TryExOrg/Escrow/blob/main/TryEx.sol
+1. https://github.com/TryExOrg/Escrow/blob/main/TryEx.sol
 
 ![TryexTokens](https://user-images.githubusercontent.com/118675124/202914678-525d2ad6-5f0c-44dd-8e4b-3d97b9b8365c.PNG)
 
@@ -35,18 +35,19 @@ The 21,000,000 $TryEx tokenomics:
 - 3,000,000 locked for 1 year
 - 3,000,000 reserved for OTC
 
-https://github.com/TryExOrg/Escrow/blob/main/TryExStake.sol
+2. https://github.com/TryExOrg/Escrow/blob/main/TryExStake.sol
 
 ![TryexStake](https://user-images.githubusercontent.com/118675124/202928799-9f5c9749-92df-4a99-8bbb-b073d795ce6c.png)
 
-https://github.com/TryExOrg/Escrow/blob/main/TryExLock.sol
+3. https://github.com/TryExOrg/Escrow/blob/main/TryExLock.sol
 
 ![TryexLock](https://user-images.githubusercontent.com/118675124/202928831-23631aa0-bb14-47b9-806b-df5d85e17c52.png)
 
-https://github.com/TryExOrg/Escrow/blob/main/TryExVesting.sol
+4a. https://github.com/TryExOrg/Escrow/blob/main/TryExVesting.sol 
+4b. 
 
 ![TryexVesting](https://user-images.githubusercontent.com/118675124/202928947-972c2926-ec41-4eee-98ea-1da5e0e4fe25.PNG)
 
-https://github.com/TryExOrg/Escrow/blob/main/TryExEscrow.sol
+6. https://github.com/TryExOrg/Escrow/blob/main/TryExEscrow.sol
 
 ![Escrow](https://user-images.githubusercontent.com/118675124/202914663-75581f47-ac91-48d9-b0db-fb779d066f0d.PNG)
