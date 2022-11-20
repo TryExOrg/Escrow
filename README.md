@@ -1,4 +1,7 @@
-For questions please reach out to: Talk@tryex.org or @Tryex_org on Twitter
+For questions please reach out to: 
+
+Talk@tryex.org or
+@Tryex_org on Twitter
 
 The contents of this repository are available for testing by any and all parties
 Utilize the contents here at your own risk and due diigence
@@ -11,3 +14,9 @@ The CEX can also at all times view the funds safely stored and continue to provi
 
 This method should drastically reduce the need for the User to store funds on CEX unless converting to FIAT
 CEX usage restricted to On & Off ramp only as there is no requirement of funds storage for trading purposes.
+
+Quick links: 
+
+https://github.com/TryExOrg/Escrow/blob/main/TryEx.sol
+
+https://github.com/TryExOrg/Escrow/blob/main/TryExStake.sol
