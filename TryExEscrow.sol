@@ -9,7 +9,7 @@
 
 pragma solidity 0.8.0;
 
-contract PaymentChannel {
+contract TryExEscrow {
     address payable public sender;      
     address payable public recipient;   
     uint256 public expiration;          
