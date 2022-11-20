@@ -20,3 +20,5 @@ Quick links:
 https://github.com/TryExOrg/Escrow/blob/main/TryEx.sol
 
 https://github.com/TryExOrg/Escrow/blob/main/TryExStake.sol
+
+https://github.com/TryExOrg/Escrow/blob/main/TryExEscrow.sol
