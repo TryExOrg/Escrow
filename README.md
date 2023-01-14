@@ -23,7 +23,7 @@ Quick links:
 
 1. https://github.com/TryExOrg/Escrow/blob/main/TryEx.sol
 
-![TryexTokenomics](https://user-images.githubusercontent.com/118675124/212482548-d73561bd-015d-4bfa-91b0-5207b48c6f48.PNG)
+![TryexTokenomics](https://user-images.githubusercontent.com/118675124/212482620-31dde5c1-b30c-4be2-a79a-cdbbd8470ddc.PNG)
 
 The 21,000,000 $TryEx tokenomics:
 
