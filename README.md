@@ -5,7 +5,7 @@ Welcome to the TryEx Project!
 For questions please reach out to: 
 
 Talk@tryex.org or
-@Tryex_org on Twitter
+@TryExOrg on Twitter
 
 The contents of this repository are available for testing by any and all parties.
 Utilize the contents here at your own risk and due diigence.
